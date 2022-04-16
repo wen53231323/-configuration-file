@@ -1,0 +1,1 @@
+loadlive2d("live2d", "/custom/看板娘/血小板/model/kesshouban/model.json");
