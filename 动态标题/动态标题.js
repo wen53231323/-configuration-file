@@ -1,0 +1,1 @@
+var OriginTitile=document.title,st;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="☹页面不见了~",clearTimeout(st)):(document.title="☺欢迎回来！",st=setTimeout(function(){document.title=OriginTitile},3e3))})
